@@ -16,7 +16,7 @@ class Shared_ptr {
 	int* m_counter;
 
 	// Shared pointer 
-	T* m_ptr;
+	T* m_ptr_;
 
 public:
 	// Constructor 
